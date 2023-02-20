@@ -1,0 +1,9 @@
+; palette.asm
+Forever                          = $C077
+LoadPalettesLoop                 = $C06C
+PaletteData                      = $C04A
+vblankwait1                      = $C014
+vblankwait2                      = $C038
+clrmem                           = $C019
+RESET                            = $C000
+NMI                              = $C07A
