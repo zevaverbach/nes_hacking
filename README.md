@@ -10,3 +10,8 @@
 - [ ] make Mario gigantic
 - [ ] swap Bowser and the Princess
 - [ ] put images of ourselves in the game
+
+# Resources
+- see 'where we left off' (the Nerdy Nights tutorial)
+- FCEUX
+- `nesasm`
