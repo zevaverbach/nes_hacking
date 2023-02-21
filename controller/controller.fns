@@ -1,0 +1,26 @@
+; controller.asm
+LoadSpritesLoop                  = $C059
+LoadPalettes                     = $C03D
+LatchController                  = $C07B
+Forever                          = $C06E
+palette                          = $E000
+ReadLeftDone                     = $C10E
+LoadPalettesLoop                 = $C04C
+ReadUp                           = $C091
+ReadDown                         = $C0A8
+ReadRightDone                    = $C141
+ReadDownDone                     = $C0DB
+SkipSeveralButtons               = $C085
+LoadSprites                      = $C057
+vblankwait1                      = $C014
+ReadUpDone                       = $C0A8
+vblankwait2                      = $C038
+clrmem                           = $C019
+RESET                            = $C000
+sprites                          = $E028
+ReadLeft                         = $C0DB
+mario_sprite_addresses_vert      = $E020
+NMI                              = $C071
+ReadRight                        = $C10E
+MoveSpritesLoop                  = $C09A
+mario_sprite_addresses_horiz     = $E024
